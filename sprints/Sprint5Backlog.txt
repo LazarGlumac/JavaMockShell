@@ -1,0 +1,36 @@
+Sprint Backlog - July 24 to August 2
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user I should be able to search for files and/or directories inside a directory given the name of said file/directory.
+b) As a user I should be able to print the contents of one or more valid files.
+c) As a user I should be able to see the hierarchy of the file system
+d) As a user I should be able to retrieve a file at the end of a valid URL and add it to the current working directory.
+e) As a user I should be able to load my previous sessions in the program from the start.
+f) As a user I should be able to send the output of all of my commands to a file.
+
+
+
+Specific tasks to be accomplished:
+a-1) Create a Find command to search for files/directories (Find)
+b-1) Change cat to still print contents of other files even if error in one (Cat)
+c-1) Create a command to print File System contents as a tree (Tree)
+d-1) Create a method to get a file from a given url (Curl)
+e-1) Create a method to load up a previous saved session from file (Load)
+f-1) Implement redirection in command class to allow other commands to redirect output to file (Redirection)
+g-1) Create a class to handle errors separately from print statements within class (Error)
+h-1) Update crc cards to match updated design (CrcCards)
+i-1) Create JUnit Test for classes (JUnit)
+
+These tasks are assigned as follows:
+
+User: Ryan Blasetti
+Tasks:  e-1, f-1, i-1
+
+User: King Lai
+Tasks: a-1, h-1, i-1
+
+User: Lazar Glumac
+Tasks: c-1, g-1, i-1
+
+User: Yara Radwan
+Tasks: b-1, d-1, i-1
+

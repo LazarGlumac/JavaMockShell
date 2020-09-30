@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+    - Continued revising Speak, Voice, and File classes.
+    - Started working on DirectoryStack class.
+
+What do I plan to work in the next three days?
+    - Finish File and Directory to fully collaborate with FileSystem.
+    - Finish the DirectoryStack, Cd, popD, and pushD class.
+
+Am I blocked on anything?
+    - Need to figure out how to receive continuous input from the user since JShell stops reading
+      input after the user presses their enter key.
+    

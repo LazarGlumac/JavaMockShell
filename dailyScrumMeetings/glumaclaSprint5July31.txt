@@ -1,0 +1,10 @@
+What did I work on in the last three days
+	- Created JUnit test cases for mkdir, tree, rm
+	- Added javadocs to missing methods
+
+What do I plan to work in the next three days
+	- Potentially add new exceptions into commands
+	- Complete testing of all classes I designed and created
+	
+Am I blocked on anything
+	- N/A

@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - Completed Curl command
+    - Updated all CRC cards to reflect current design
+    - Added javadocs and comments to all my command classes
+    - Started working on my JUnit tests
+
+What do I plan to work in the next three days?
+    - Continue working on and complete all my JUnit tests
+
+Am I blocked on anything?
+    - Nothing as of now

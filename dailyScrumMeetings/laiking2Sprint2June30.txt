@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+	- Added FilePath class to run file path operations.
+    - Revamped Cd and DirectoryStack to use the new file path operations in FilePath.
+    - Added support for the following Cd calls: "cd ../../../../..", "cd ././././.", and "cd /"
+
+What do I plan to work in the next three days?
+    - Fix Speak to check for user input in quotations.
+    - Fix any compatibility issues with the new singleton file system.
+
+Am I blocked on anything?
+    - Not at the moment.

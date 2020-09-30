@@ -1,0 +1,14 @@
+What did I work on in the last three days
+	- Added Javadoc and comments to Pwd, Cat, Exit, Man command classes
+        - Formatted and edited my code to ensure it follows all the guidelines
+          from the rubric(eg. Making sure all my methods did not exceed 30 lines
+          each, adhering to Google Code Style, etc...)
+        - Continued to test and debug my code to ensure everything works properly
+
+What do I plan to work in the next three days
+	- Show test cases in comments of the functions that I worked on
+        - Finish updating/creating all CRC cards to reflect our current (and 
+          final design)
+
+Am I blocked on anything
+	- Not anymore~!

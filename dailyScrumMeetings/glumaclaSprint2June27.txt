@@ -1,0 +1,15 @@
+What did I work on in the last three days?
+	- Tested and finished the History command with correct output.
+	- Tested the implementation of the basic current functions the team has completed.
+	= Finished an initial design and implementation of the Mkdir command, but have not tested completely.
+	- Made minor changes to the FileSystem class regarding team comments on functionality
+
+What do I plan to work in the next three days?
+	- Continue working on the Mkdir class to be fully functional.
+	- Start brainstorming possible test cases which my code may be tested on
+	= Prepare for the demo presentation on June 29th
+
+Am I blocked on anything?
+	- The team is discussing creating a new design for some the CurrentWorkingDirectory class, which would impact my code signifcantly.
+	- Cannot continue to develop and implement my Mkdir class design without its supporting classes
+	- Testing of the Mkdir class requires other functions, ie, LS, CD, etc.

@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+        - Finished and debugged man command class
+        - Revised our CRC cards to reflect our design changes [that occurred as we were in the middle of our last sprint]
+
+What do I plan to work in the next three days?
+	- Start working on the pwd, exit, and cat command classes
+
+Am I blocked on anything?
+	- Nothing as of right now

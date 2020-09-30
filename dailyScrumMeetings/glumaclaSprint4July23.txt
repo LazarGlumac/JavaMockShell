@@ -1,0 +1,11 @@
+What did I work on in the last three days
+	- Completed the Rm command
+	- Modified the Mkdir command to follow new guidelines
+	- Brainstormed plan for how Tree class will function
+
+What do I plan to work in the next three days
+	- Create and complete the tree function
+	- Comment the newly created/modified code (rm, mkdir, and tree)
+	
+Am I blocked on anything
+	- N/A

@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - Worked on adding additional methods for Command
+    - Updated crc cards to reflect design
+
+What do I plan to work in the next three days?
+    - Starting the next sprint
+    - Implementing design for echo and its subclasses
+    - Working on ls class
+
+Am I blocked on anything?
+    - Nothing right now

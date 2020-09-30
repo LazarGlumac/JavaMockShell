@@ -1,0 +1,11 @@
+What did I work on in the last three days
+	- Started and completed ~75% implementation of the Rm command
+	- Discussed ways to incorporate throws and error exception handling into the program
+	- Discussed error checking in the Mkdir class to adhere to new requirements
+
+What do I plan to work in the next three days
+	- Complete the Rm command
+	- Modify the Mkdir command to follow new guidelines
+
+Am I blocked on anything
+	- Need to double check with teammates on use cases of specific methods in FilePath class

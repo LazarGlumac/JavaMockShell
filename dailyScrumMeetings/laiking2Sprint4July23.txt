@@ -1,0 +1,10 @@
+What did I work on in the last three days
+	- Fixed bugs in Mv, Cp, and Find commands.
+	- Commented and added Javadocs for Mv, Cp, Find, and any helper methods I made.
+	
+What do I plan to work in the next three days
+	- Continuing running tests on Mv, Cp, and Find commands.
+	- Revising any code that may seem too long or hard to understand.
+	
+Am I blocked on anything
+	- Not at the moment.

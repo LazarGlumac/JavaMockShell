@@ -1,0 +1,37 @@
+   | User Stories                                     | Time Estimate |
+   |                                                  |               |
+a) | User 1 (exit): As a user I should be able to     |    3 days     |
+   | run commands until I decide to stop.             |               |
+   |                                                  |               |
+b) | User 2 (speech): As a user I should be able to   |    2 days     |
+   | make the program talk back to me.                |               |
+   |                                                  |               |
+c) | User 3 (mkdir): As a user I should be able to    |    3 days     |
+   | create a directory in any location.              |               |
+   |                                                  |               |
+d) | User 4 (cd): As a user I should be able to       |    3 days     |
+   | navigate through my created directories.         |               |
+   |                                                  |               |
+e) | User 5 (history): As a user I should be able to  |    2 days     |
+   | view my previously written commands in           |               |
+   | chronological order.                             |               |
+   |                                                  |               |
+f) | User 6 (echo STRING [> OUTFILE] and              |    2 days     |
+   | echo STRING [>>OUTFILE]): As a user I should be  |               |
+   | able to create and write into a file.            |               |
+   |                                                  |               |
+g) | User 7 (cat): As a user I should be able to view |    4 days     |
+   | multiple files at the same time.                 |               |
+   |                                                  |               |
+h) | User 8 (man): As a user I should be able to view |    1 day      |
+   | info on how to use commands.                     |               |
+   |                                                  |               |
+i) | User 9 (ls): As a user I should be able to view  |    1 day      |
+   | all of the contents in a directory.              |               |
+   |                                                  |               |
+j) | User 10 (print working dir): As a user I should  |    1 day      |
+   | be able to see what directory I am currently in. |               |
+   |                                                  |               |
+k) | User 11 (push and pop): As a user I should be    |    3 days     |
+   | able to save and open directories when I choose. |               |
+

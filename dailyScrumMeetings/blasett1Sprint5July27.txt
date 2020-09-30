@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - Added additional comments
+    - Made redirection functional for all output classes
+    - Began Junit testing
+
+What do I plan to work in the next three days?
+    - Continue testing code
+    - Error handling
+
+Am I blocked on anything?
+    - Maybe implementing an interface for file/directory and whether its even neccesary

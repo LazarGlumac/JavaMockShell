@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - Worked on File, Directory, Speak, and Voice classes. 
+
+What do I plan to work in the next three days?
+    - Finish File and Directory to fully collaborate with FileSystem.
+    - Adjust the implementation for Voice which deals with the type of text being converted to speech. 
+    - Continue distributing tasks among my group members to implement the User Stories.
+
+Am I blocked on anything?
+    - Need a functional FileSystem (such as a working prototype) to test File and Directory for bugs or additional add-ons.
+    

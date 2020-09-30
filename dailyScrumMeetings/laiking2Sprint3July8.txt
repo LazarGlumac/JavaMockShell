@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+	- Javadocs for Cd, Popd, Pushd, Speak, File, Directory, FilePath, CurrentWorkingDirectory
+	  and DirectoryStack.
+	- Put the implementation of Pop and Push directly into Popd and Pushd.
+	- Changed the returns of the Cd, Popd, Pushd and Speak to be more relevant and testable.
+
+What do I plan to work in the next three days?
+    - N/A
+
+Am I blocked on anything?
+    - N/A

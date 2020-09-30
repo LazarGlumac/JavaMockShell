@@ -1,0 +1,14 @@
+What did I work on in the last three days?
+	- Re-wrote the Speak class to follow the guidelines Sally and Abbas set on Microsoft Teams.
+	- Removed the Voice class as it was unnecessary and could be easily implemented into Speak.
+	- Added commenting on the methods I worked on.
+	- Cleaned up the Cd class to be more concise.
+
+What do I plan to work in the next three days?
+    - Add Javadoc for the class I worked on (Cd, Pushd, Popd, Speak, DirectoryStack, File,
+      Directory, CurrentWorkingDirectory, FilePath).
+    - Add relevant returns for the command I worked on.
+    - Run various tests on our code.
+
+Am I blocked on anything?
+    - I need to add relevant returns for the commands I worked on in order to run tests on them properly.

@@ -1,0 +1,11 @@
+What did I work on in the last three days
+	- Worked on Mv, Cp, and Find commands.
+	- Added helper methods in FilePath, Directory, and File classes.
+	- Added new parameter in the constructor of File >> Directory parentDirectory.
+
+What do I plan to work in the next three days
+	- Run tests on Mv, Cp, and Find commands.
+	- Brainstorm how to implement injection design pattern.
+	
+Am I blocked on anything
+	- Need to implement injection design pattern to test some of our classes in isolation.

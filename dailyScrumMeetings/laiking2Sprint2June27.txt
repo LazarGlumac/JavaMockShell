@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+    - Fixed issue with the speak command where some of the words entered by the user
+      weren't being spoken.
+    - Implemented the ability to store a Directory object in the CurrentWorkingDirectory.
+    - Worked on and revised Cd, and DirectoryStack classes based on the new implementation above.
+
+What do I plan to work in the next three days?
+    - Fixing the Mbrola error that occurs when running the speak command.
+    - Run tests on our code.
+
+Am I blocked on anything?
+    - Not at the moment.

@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+	- Finished the checkPath method in FileSystem, fixing bugs and adding a check for files.
+	- Tested the FileSystem class in a general way.
+	= Added function to return the subdirectories of directory in the Directory class.
+
+What do I plan to work in the next three days?
+	- Start working on the mkdir command class.
+	- Start working on the history command class.
+
+Am I blocked on anything?
+	- Cannot properly test the functionality of the FileSystem class without all of the commands which require it completed.

@@ -1,0 +1,32 @@
+Sprint 1 Backlog 
+June 15 to June 17
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user I should be able to run commands until I decide to stop ....  prompt user for input
+b) As a user I should be able to create a directory in any location / As a user I should be able to navigate through my created directories … create and design the file system
+c) As a user I should be able to view info on how to use commands …. Start code for displaying functionality and requirements of commands.
+
+Specific tasks to be accomplished:
+a-1. (JShell) Start coding for a shell interpreter.
+a-2. (JShell) Have the shell continually prompt the user for valid input.
+b-1. (FileSystem) Start code on the file system.
+b-2. (File) Start base code for File class. 
+b-3. (Directory) Start base code for Directory class. 
+c-1. (Command) Start base code for command class structure.
+c-2. (Validation) Start base code for checking of input.
+c-3. (Commands Manual) Start code for displaying functionality and requirements of commands.
+d-1. (CRC Cards) Start initial crc card design for program.
+
+These tasks are assigned as follows:
+
+User: Ryan Blasetti
+Tasks: c-1, c-2
+
+User: King Lai
+Tasks: b-2, b-3
+
+User: Lazar Glumac
+Tasks: a-1, a-2, b-1
+
+User: Yara Radwan
+Tasks: c-3, d-1 

@@ -1,0 +1,14 @@
+What did I work on in the last three days?
+	- Refactored design of Mkdir and CurrentWorkingDirectory so absolute and relatives path could be converted.
+	- Fixed bug in History which resulted in the incorrect history when a parameter was given.
+	- Completely tested the mkdir command with cat, ls, pushd, and popd to ensure functionality
+
+What do I plan to work in the next three days?
+	- Refactor FileSystem code to follow the Singleton principle.
+	- Potentially create helper functions and/or classes if methods do not follow the 30 line limit.
+	- Create factory method to instantiate the FileSystem.
+	- Ensure my code holds up to the Google Code Style Guide.
+	- Add missing Javadoc comments to classes and methods.
+
+Am I blocked on anything?
+	- Once I begin to change the FileSystem design, all classes which used the FileSystem will need to have their code changed.

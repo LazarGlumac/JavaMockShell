@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - Worked on Command and Validation classes and created subclasses for command 
+
+What do I plan to work in the next three days?
+    - Finish up any additions to validation class that may be necessary
+    - Look for any additional requirements for the generic command classes that can be inherited
+    - Continue distributing tasks among my group members to implement the User Stories.
+
+Am I blocked on anything?
+    - Developing additional methods for generic command class to be inherited by all subclasses
+    

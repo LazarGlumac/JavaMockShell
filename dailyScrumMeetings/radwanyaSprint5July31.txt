@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - Completed all javadocs for my command classes, and make sure they all
+    follow Google XML
+    - Continued working on all my JUnit classes
+
+What do I plan to work in the next three days?
+    - Complete all my JUnit tests
+    - Finalize all code and make sure they pass all possible tests
+
+Am I blocked on anything?
+    - Nothing as of now

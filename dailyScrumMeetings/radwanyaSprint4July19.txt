@@ -1,0 +1,11 @@
+What did I work on in the last three days
+	- Started working on the new implementation of Cat
+        - Added CRC cards for the new command classes and modified the existing ones to include the new features
+
+What do I plan to work in the next three days
+	- Complete the Cat command
+	- Modify the Man command to include the new commands created in A2B
+        - Complete the CRC cards
+
+Am I blocked on anything
+	- Need all the new classes to be semi-completed in order to update the CRC cards accordingly

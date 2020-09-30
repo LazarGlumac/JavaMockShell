@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+    - Completed the Exit class and updated Man class to reflect the new changes to our Echo class structure
+    - Performed a mock demo with the entire team to make sure all our completed classes function properly
+    - Worked on Cat and Pwd command classes
+
+What do I plan to work in the next three days?
+    - Complete Cat and Pwd command classes
+    - Update our CRC cards to reflect our current design
+    - Prepare and host another Mock Demo to ensure our currently functional classes produce the correct output for all possible cases
+
+Am I blocked on anything?
+    - Need CurrentWorkingDirectory to be completed (and functional) before I can complete Pwd class
+

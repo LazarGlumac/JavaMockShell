@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - Updated Ls for use recursively
+    - Started work on Save
+
+What do I plan to work in the next three days?
+    - Complete work on Save
+    - Update Crc Cards
+    - Look into Load
+    
+Am I blocked on anything?
+    - Nothing right now

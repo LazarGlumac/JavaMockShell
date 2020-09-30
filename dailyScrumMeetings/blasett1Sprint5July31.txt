@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - Added additional comments
+    - Continued Junit testing
+    - Fixed bugs found in save/load
+
+What do I plan to work in the next three days?
+    - Finish Junit testing
+    - save directory stack in command as well
+
+Am I blocked on anything?
+    - Nothing at the moment

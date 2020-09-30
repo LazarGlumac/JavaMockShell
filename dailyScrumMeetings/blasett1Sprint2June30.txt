@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+    - Fixed bugs in echo class
+    - Completed ls class
+    - Began commenting on files
+
+What do I plan to work in the next three days?
+    - Testing for bugs in new classes
+    - Updating crc cards to match new design
+    - Completing commenting and javadocs according to rubric
+
+Am I blocked on anything?
+    - Nothing right now

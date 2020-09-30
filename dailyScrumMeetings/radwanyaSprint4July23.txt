@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+    - Fixed bugs in Cat (completed and fully commented the class as well)
+    - Started working on Curl
+
+What do I plan to work in the next three days?
+    - Complete Curl class
+    - Make sure to test all my classes and ensure they all have appropriate comments/javadocs
+    - Continue updateing Man class to contain all the new commands
+
+Am I blocked on anything?
+    - Nothing right now
+

@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+    - Fixed bugs in echo class
+    - Added redirection class
+    - Commented large portions of ls, echo, and redirection
+
+What do I plan to work in the next three days?
+    - Testing code for final submission
+    - Updating crc cards
+    - Completing javadocs for classes
+
+Am I blocked on anything?
+    - Nothing right now

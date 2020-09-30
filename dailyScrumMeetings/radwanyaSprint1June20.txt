@@ -1,0 +1,9 @@
+hat did I work on in the last three days?
+    - Created and completed all CRC cards
+    - Worked on Man class 
+
+What do I plan to work in the next three days?
+    - Start working on the rest of the classes (my specific class responsibilities will be determined in our next Sprint meeting)
+
+Am I blocked on anything?
+    - In order to properly test my Man class, the Validation and Command classes must be completed with full functionality    

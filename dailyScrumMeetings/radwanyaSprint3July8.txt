@@ -1,0 +1,14 @@
+What did I work on in the last three days?
+    - Changed the design of man and updated all classes to follow the new
+    design: instead of man containing all command descriptions,
+    each command class has its own method that contains all info about it
+    - Made sure all my classes follow all style guidelines and added javadocs
+    and comments to all my classes as well
+    - Updated all the CRC cards (including adding/deleting old CRC cards)
+    to reflect our current (and final) design
+
+What do I plan to work in the next three days?
+    - N/A
+
+Am I blocked on anything?
+    - N/A

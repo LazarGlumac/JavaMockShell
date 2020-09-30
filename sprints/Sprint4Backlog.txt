@@ -1,0 +1,36 @@
+Sprint 4 Backlog
+July 17 to July 23
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user I should be able to use ls to check the contents of a directory and its subdirectories.
+b) As a user I should be able to print the contents of one or more valid files.
+c) As a user I should be able to move directories and/or files to another directory.
+d) As a user I should be able to create multiple directories at once
+e) As a user I should be able to delete directories that I have created
+f) As a user I should be able to save all of my progress in the program.
+g) As a user I should be able to copy directories and/or files to another directory.
+
+Specific tasks to be accomplished:
+a-1) Implement a recursive option to ls (Ls)
+b-1) Change cat to still print contents of other files even if error in one (Cat)
+c-1) Implement a command to move directories and files to another directory. (Mv)
+d-1) Refactor the Mkdir class to allow creation for multiple directories at once (Mkdir)
+e-1) Create and begin implementation of the Remove class to remove directories created (Rm)
+f-1) Create a command to allow saving of progress for JShell (Save)
+g-1)  Implement a command to copy directories and files to another directory. (Cp)
+h-1) Create crc cards to accommodate new classes and commands (CrcCards)
+
+These tasks are assigned as follows:
+
+User: Ryan Blasetti
+Tasks:  a-1, f-1
+
+User: King Lai
+Tasks: c-1, g-1
+
+User: Lazar Glumac
+Tasks: d-1, e-1
+
+User: Yara Radwan
+Tasks: b-1, h-1
+

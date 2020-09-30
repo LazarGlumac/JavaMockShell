@@ -1,0 +1,13 @@
+What did I work on in the last three days
+	- Refactored FileSystem code to follow the Singleton principle.
+	- Created factory method to instantiate the FileSystem.
+	- Implemented the Singleton FileSystem design to all classes that require the FileSystem
+	- Added missing Javadoc comments to methods.
+
+What do I plan to work in the next three days
+	- Show test cases in comments of the functions that I worked on.
+	- Ensure my code holds up to the Google Code Style Guide.
+	- Add missing Javadoc comments to classes.
+
+Am I blocked on anything
+	- N/A

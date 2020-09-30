@@ -1,0 +1,11 @@
+What did I work on in the last three days
+	- Showed test cases of the functions that I worked on.
+	- Ensured teamates code holds up to the Google Code Style Guide.
+	- Added missing Javadoc comments to classes.
+	- Checked grading scheme to ensure requirments were met.
+
+What do I plan to work in the next three days
+	- N/A
+
+Am I blocked on anything
+	- N/A

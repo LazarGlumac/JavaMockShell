@@ -1,0 +1,11 @@
+What did I work on in the last three days
+	- Completed the tree function
+	- Commented the newly created/modified code (rm, mkdir, and tree)
+
+What do I plan to work in the next three days
+	- Create JUnit test cases for mkdir, tree, rm
+	- Add javadocs to missing methods
+
+	
+Am I blocked on anything
+	- N/A

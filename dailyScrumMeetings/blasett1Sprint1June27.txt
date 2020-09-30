@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - Worked on class for echo
+    - Worked on class for ls implementation
+
+What do I plan to work in the next three days?
+    - Testing code fo echo and ls
+    - Adding comments for completed code
+    - Updating crc cards for design changes
+
+Am I blocked on anything?
+    - Nothing right now

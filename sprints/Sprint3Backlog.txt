@@ -1,0 +1,33 @@
+Sprint Backlog
+July 1 to July 8
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user I should be able to create a directory in any location.
+b) As a user I should be able to view info on how to use commands.
+c) As a user I should be able to make the program talk back to me.
+d) As a user I should be able to view all of the contents in a directory.
+
+Specific tasks to be accomplished:
+a-1) (Mkdir) Fix mkdir to be compatible with change in FileSystem class
+b-1) (Man) Fix man bugs that accept multiple parameters 
+c-1) (Speak) Fix speak command in reference to external print statement
+d-1) (Ls) Fix ls to be compatible with change in FileSystem class 
+e-1) (FileSystem) Changing to filesystem Singleton design
+f-1) (All) Ensure code functions and matches style guide given in rubric
+g-1) (Crc Cards) Update crc cards to match design changes
+
+These tasks are assigned as follows:
+
+User: Ryan Blasetti
+Tasks: d-1, f-1, g-1
+
+User: King Lai
+Tasks: c-1. e-1, f-1, 
+
+User: Lazar Glumac
+Tasks: a-1, e-1, f-1
+
+User: Yara Radwan
+Tasks: b-1, f-1, g-1
+
+

@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+    - Completed Save class
+    - Commented classes
+    - Completed load class
+
+What do I plan to work in the next three days?
+    - Testing Code
+    - Adding additional comments
+    - Start error handling
+
+Am I blocked on anything?
+    - Nothing right now

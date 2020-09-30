@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+    - Fixed bugs in man and cat classes
+    - Completed pwd class
+    - Tested all my code to ensure everything produces the correct output
+
+What do I plan to work in the next three days?
+    - Comment/Add appropriate javadoc to all the classes I am responsible for
+    - Update CRC cards to reflect our current design
+    - Make sure my code follows all the guidelines posted in the rubric and follows the Google Style
+
+Am I blocked on anything?
+    - Nothing right now

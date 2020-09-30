@@ -1,0 +1,13 @@
+What did I work on in the last three days
+	- Added Junit testing for the Mv, Cp, Find, Popd, Pushd, and Cd.
+	- Edited any classes I worked on to be more precise and to meet the 30 line limit.
+	
+What do I plan to work in the next three days
+	- Continuing running tests on our program to look for any unseen bugs.
+	- Write Junit tests for the non-command classes I worked on:
+	  - Directory
+	  - File
+	  - FilePath
+	
+Am I blocked on anything
+	- Not at the moment.

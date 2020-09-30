@@ -1,0 +1,12 @@
+What did I work on in the last three days
+	- Fixed issues in Mv, Cp, and Find commands.
+	- Specifically, added renaming to Mv, and made Find recursive.
+	- Resolved issue in A2 Part A regarding Speak with Brian.
+	
+What do I plan to work in the next three days
+	- Continuing running tests on Mv, Cp, and Find commands.
+	- Revising any code that may seem too long or hard to understand.
+	- Write JUnit tests for the commands I wrote.
+	
+Am I blocked on anything
+	- Not at the moment.

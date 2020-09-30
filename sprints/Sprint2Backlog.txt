@@ -1,0 +1,42 @@
+Sprint 2 Backlog
+June 24 to June 30
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user I should be able to make the program talk back to me.
+b) As a user I should be able to create and write into a file.
+c) As a user I should be able to see what directory I am currently in.
+d) As a user I should be able to view multiple files at the same time.
+e) As a user I should be able to view multiple files at the same time.
+f) As a user I should be able to save and open directories when I choose.
+g) As a user I should be able to navigate through my created directories.
+h) As a user I should be able to create a directory in any location.
+i) As a user I should be able view my previously written commands in chronological order.
+j) As a user I should be able to view all of the contents in a directory. 
+
+Specific tasks to be accomplished:
+a-1. (Commands) Finish the Speak command class
+b-1. (Commands) Start working on [and complete] the echoAppend command class
+b-2. (Commands) Start working on [and complete] the echoOverwrite command class
+c-1. (Commands) Start working on [and complete] the pwd command class
+d-1. (Commands) Start working on [and complete] the exit command class
+e-1. (Commands) Start working on [and complete] the cat command class
+f-1. (Commands) Start working on [and complete] the popd and pushd command classes
+g-1. (Commands) Start working on [and complete] the cd command class
+h-1. (Commands) Start working on [and complete] the mkdir command class
+i-1. (Commands) Start working on [and complete] the history command class
+j-1. (Commands) Start working on [and complete] the ls command class
+
+These tasks are assigned as follows:
+
+User: Ryan Blasetti
+Tasks: b-1, b-2, j-1
+
+User: King Lai
+Tasks: a-1, f-1, g-1
+
+User: Lazar Glumac
+Tasks: h-1, i-1
+
+User: Yara Radwan
+Tasks: c-1, d-1, e-1
+

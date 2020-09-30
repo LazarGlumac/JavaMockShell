@@ -1,0 +1,43 @@
+   | User Stories                                       | Time Estimate |
+   |                                                    |               |
+a) | User 1 (Redirection): As a user I should be able   |    3 days     |
+   | to send the output of all my commands to a file.   |               |
+   |                                                    |               |
+b) | User 2 (rm): As a user I should be able to delete  |    2 days     |
+   | directories that I have created.                   |               |
+   |                                                    |               |
+c) | User 3 (mkdir): As a user I should be able to      |    1 day      |
+   | create multiple directories at once.               |               |
+   |                                                    |               |
+d) | User 4 (tree): As a user I should be able to see   |    4 days     |
+   | the hierarchy of the file system.                  |               |
+   |                                                    |               |
+e) | User 5 (save): As a user I should be able to save  |    3 days     |
+   | all of my progress in the program.                 |               |
+   |                                                    |               |
+f) | User 6 (load): As a user I should be able to load  |    1 day      |
+   | my previous sessions in the program from the       |               |
+   | start.                                             |               |
+   |                                                    |               |
+g) | User 7 (ls -R): As a user I should be able to use  |    2 days     |
+   | ls to check the contents of a directory and its    |               |
+   | subdirectories.                                    |               |
+   |                                                    |               |
+h) | User 8 (cat): As a user I should be able to print  |    1 day      |
+   | the contents of any valid file[s] I provide.       |               |
+   |                                                    |               |
+i) | User 9 (mv): As a user I should be able to move    |    3 days     |
+   | directories and/or files to another directory.     |               |
+   |                                                    |               |
+j) | User 10 (cp): As a user I should be able to copy   |    3 days     |
+   | directories and/or files into another directory.   |               |
+   |                                                    |               |
+k) | User 11 (find): As a user I should be able to      |    6 days     |
+   | search for directories and/or files inside a       |               |
+   | directory given the same of said directory/file.   |               |
+   |                                                    |               |
+l) | User 12 (curl): As a user I should be able to      |    5 days     |
+   | retrieve a file at the end of a valid URL and add  |               |
+   | it to the current working directory.               |               |
+   |                                                    |               |
+ 

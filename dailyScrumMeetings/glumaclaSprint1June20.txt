@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+	- Worked on FileSystem, JShell, Directory, and UserTerminalInput classes
+	- Begin a skeleton implementation of FileSystem and UserTerminalInput into the JShell class
+
+What do I plan to work in the next three days?
+	- Finish FileSystem and UserTerminalInput
+	- Conintue implementing the design and rank the importance of what needs to be done in the next sprint
+
+Am I blocked on anything?
+	- Need to test the FileSystem functionality and ensure that data being read in the UserTerminalInput class is bugless
+	- Need the Validation and Command class to be completed in order to integerate the UserTerminalInput class. 
